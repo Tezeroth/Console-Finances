@@ -26,3 +26,5 @@ When opened in the browser the code looks like this:
 
 
 I didn't make any commits on this assignment as It was kept locally on my machine, I aspire to do so more so in the future in the event of catastrophic data loss. From this challenge I learned about the Push function, iterating through nested arrays, the toFixed function, and that I need to account for zero indexing. Also, that AI is a patient teacher, I used the Xpert Learning Assistant to help guide me in iterating through arrays initially. 
+
+I bought two books for this assignment that helped: JavaScript in Easy Steps by Mike McGrath. and Javascript for Dummies 7-in-1 2023 edition by Chris Minnick. I also found out about two interesting extensions, one that can analyze your code and spot errors, and one that refactors the code to not look like a pig's ear. These were codiumAI, and Prettier. 
